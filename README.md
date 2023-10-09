@@ -1,2 +1,2 @@
 # nodejs-express-jest-typescript
-Repository to test node js server with express along with unit and integration test using jest
+Node js application for Authentication/Authorization using jwt token with mongodb cluster as database
