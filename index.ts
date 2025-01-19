@@ -15,3 +15,4 @@ connectToDatabase()
         process.exit();
     });
 
+// addded a comment
